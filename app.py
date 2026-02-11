@@ -1,2 +1,2 @@
 #Hello world program 
-print("Hello, chunky!")
+print("Hello, beautiful chunky!")
